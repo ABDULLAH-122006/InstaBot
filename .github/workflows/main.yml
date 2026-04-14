@@ -24,4 +24,4 @@ jobs:
       run: npm install
       
     - name: Start the Bot
-      run: npm start
+      run: node index.js
