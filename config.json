@@ -1,14 +1,14 @@
 {
 
-    "Username":"",
-    "Password":"",
+    "Username":"natalie.emma_",
+    "Password":"AM456@#11",
     "MSSQL_Connection_String":"",
     "OpenAI_API_Key":"",
     "PlaygroundAICookies":{},
     "Shazam_API_Key":"",
     "defaultImitation": "",
     "StoreMessages":false,
-    "DeviceSeed":"",
+    "DeviceSeed":"testbot",
     "MaxMessagesInContext":4,
     "MaxMessagesInCache":50
     
